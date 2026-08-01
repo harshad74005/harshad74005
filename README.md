@@ -1,44 +1,70 @@
-<h1 align="center">
+#
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&height=50&lines=I'm+Harshad+Chavare;Full-Stack+Web+Developer;React.js+%26+Java+Expert;Crafting+Scalable+Solutions" alt="Typing SVG" />
-</h1>
+</div>
 
-<p align="center">
-  <a href="https://harshad-chavare-portfolio.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/9b7130da-9e2d-461e-8593-f13cb1308551" width="180" height="180" alt="Harshad Chavare" style="border-radius: 50%; object-fit: cover; border: 4px solid #fff; box-shadow: 0 0 15px rgba(247, 223, 30, 0.6);" />
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <a href="mailto:harshadchavare210@gmail.com">
-    <img src="https://img.shields.io/badge/Connect via Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Mumbai, India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/harshad-chavare">
-    <img src="https://img.shields.io/badge/Explore LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/harshad74005">
-    <img src="https://img.shields.io/badge/View GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
+    <table border="0" cellpadding="10" cellspacing="0">
+        <tr>
+            <td width="200" align="center">
+                <!-- IMPORTANT: To make your profile image look professional like this example, upload it to Cloudinary and update hya links che values with YOUR specific Cloudinary username and public ID.
+                     hya layout mule photo profile card sarkhi professional disel.
+                -->
+                <img src="https://res.cloudinary.com/YOUR_CLOUDINARY_USERNAME/image/upload/ar_1:1,c_fill,g_auto,r_max,w_200,bo_4px_solid_white/YOUR_IMAGE_PUBLIC_ID.jpg" width="180" height="180" alt="Harshad Chavare Profile" style="border-radius: 50%; object-fit: cover; border: 4px solid #fff; box-shadow: 0 0 15px rgba(247, 223, 30, 0.6);" />
+            </td>
+            <td width="400">
+                <h2>👋 Namskar!</h2>
+                <p>Mi Java Full-Stack Developer ahe. Passionate about building robust and scalable web applications.</p>
+                <p>Profile update visual elements professionally sleek banavnyasathi kela ahe.</p>
+                <div align="left">
+                    <a href="mailto:harshadchavare210@gmail.com">
+                        <img src="https://img.shields.io/badge/Connect via Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+                    </a>
+                    &nbsp;
+                    <a href="https://linkedin.com/in/harshad-chavare">
+                        <img src="https://img.shields.io/badge/Explore LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+                    </a>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
 
 ---
 
 ## 📊 GitHub Analytics & Highlights
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harshad74005&theme=onedark&column=4&margin-w=15" alt="Harshad's GitHub Trophies" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/harshad74005?label=Followers&style=for-the-badge&color=238636&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/harshad74005?label=Total%20Stars&style=for-the-badge&color=e3b341&logo=github" />
-</p>
+<br>
+
+<div align="center">
+    <table border="0" cellpadding="10" cellspacing="0" width="80%">
+        <tr>
+            <td width="50%" align="center">
+                <!-- CUSTOM FOLLOWERS CARD - Using a graphic and custom numbers sathi display -->
+                <div style="background-image: linear-gradient(to bottom right, #2c3e50, #4ca1af); border-radius: 10px; padding: 20px; text-align: center; color: white; width: 250px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+                    <img src="https://img.icons8.com/color/64/000000/crowd.png" width="48" height="48" alt="Followers Icon">
+                    <div style="font-size: 28px; font-weight: bold; margin: 10px 0;">0</div>
+                    <div style="font-size: 14px; text-transform: uppercase; letter-spacing: 1px;">Followers</div>
+                </div>
+            </td>
+            <td width="50%" align="center">
+                <!-- CUSTOM STARS CARD - Using a graphic and custom numbers sathi display -->
+                <div style="background-image: linear-gradient(to bottom right, #f7971e, #ffd200); border-radius: 10px; padding: 20px; text-align: center; color: white; width: 250px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+                    <img src="https://img.icons8.com/fluent/64/000000/star.png" width="48" height="48" alt="Stars Icon">
+                    <div style="font-size: 28px; font-weight: bold; margin: 10px 0;">0</div>
+                    <div style="font-size: 14px; text-transform: uppercase; letter-spacing: 1px;">Total Stars</div>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
 
 ---
 
