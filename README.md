@@ -3,7 +3,6 @@
 <p align="center">
   <img src="profile.jpeg" width="160" alt="Harshad Chavare" style="border-radius: 50%;" />
 </p>
-
 ### Java Full-Stack Developer | Mumbai, MH | harshadchavare210@gmail.com
 
 ---
