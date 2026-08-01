@@ -28,8 +28,14 @@
 
 ---
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshad74005&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Harshad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshad74005&show_icons=true&locale=en" alt="Harshad's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshad74005&" alt="Harshad's GitHub Streak" />
 </p>
 
 ---
