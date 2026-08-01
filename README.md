@@ -1,7 +1,7 @@
 # 👨‍💻 I'm Harshad Chavare
 
 <p align="center">
-  <img src="profile.png" width="160" height="200" alt="Harshad Chavare" style="border-radius: 50%;" />
+  <img src="profile.jpeg" width="160" alt="Harshad Chavare" style="border-radius: 50%;" />
 </p>
 
 ### Java Full-Stack Developer | Mumbai, MH | harshadchavare210@gmail.com
@@ -48,7 +48,7 @@ Experienced **Java Full-Stack Developer** with a passion for building scalable w
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshad74005&show_icons=true&theme=radical" alt="Harshad's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshad74005&show_icons=true&theme=radical" alt="Harshad's GitHub Stats" />
 </p>
 
 ---
@@ -56,5 +56,5 @@ Experienced **Java Full-Stack Developer** with a passion for building scalable w
 <p align="center">
   <a href="https://linkedin.com/in/harshad-chavare">LinkedIn</a> |
   <a href="mailto:harshadchavare210@gmail.com">Email</a> |
-  <a href="https://harshadchavare-portfolio.vercel.app">Portfolio</a>
+  <a href="https://harshad-chavare-portfolio.vercel.app/">Portfolio</a>
 </p>
