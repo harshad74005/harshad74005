@@ -1,7 +1,7 @@
 #
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&height=50&lines=I'm+Harshad+Chavare;Full-Stack+Web+Developer;React.js+%26+Java+Expert;Crafting+Scalable+Solutions" alt="Typing SVG" />
+  <img src=""https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&height=50&lines=I'm+Harshad+Chavare;Full-Stack+Web+Developer;React.js+%26+Java+Expert;Crafting+Scalable+Solutions"" alt="Typing SVG" />
 </div>
 
 <br>
