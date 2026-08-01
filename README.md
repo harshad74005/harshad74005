@@ -48,7 +48,7 @@ Experienced **Java Full-Stack Developer** with a passion for building scalable w
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshad74005&show_icons=true&theme=radical" alt="Harshad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshad74005&show_icons=true&theme=radical" alt="Harshad's GitHub Stats" />
 </p>
 
 ---
