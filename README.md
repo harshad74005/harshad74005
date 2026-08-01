@@ -1,7 +1,7 @@
 # 👨‍💻 I'm Harshad Chavare
 
 <p align="center">
-  <img src="profile.jpeg" width="160" alt="Harshad Chavare" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/harshad74005/harshad74005/main/profile.jpeg" width="160" alt="Harshad Chavare" style="border-radius: 50%;" />
 </p>
 ### Java Full-Stack Developer | Mumbai, MH | harshadchavare210@gmail.com
 
