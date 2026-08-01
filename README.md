@@ -28,14 +28,16 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshad74005&show_icons=true&locale=en" alt="Harshad's GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshad74005&theme=onedark&column=4&margin-w=15" alt="Harshad's GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshad74005&" alt="Harshad's GitHub Streak" />
+  <img src="https://img.shields.io/github/followers/harshad74005?label=Followers&style=for-the-badge&color=238636&logo=github" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/harshad74005?label=Total%20Stars&style=for-the-badge&color=e3b341&logo=github" />
 </p>
 
 ---
