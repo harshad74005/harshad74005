@@ -17,30 +17,26 @@
 </p>
 
 <p align="center">
-    <a href="https://linkedin.com/in/harshad-chavare">
-        <img src="https://img.shields.io/badge/Explore LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/harshad74005">
-        <img src="https://img.shields.io/badge/View GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/--A3E635.svg" width="600" height="2" alt="divider" />
+  <a href="https://linkedin.com/in/harshad-chavare">
+    <img src="https://img.shields.io/badge/Explore LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/harshad74005">
+    <img src="https://img.shields.io/badge/View GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshad74005&show_icons=true&theme=nightowl&rank_icon=github&count_private=true&include_all_commits=true&bg_color=1d1d2b" alt="Harshad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshad74005&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Harshad's GitHub Stats" />
 </p>
 
 ---
 
 ## 🚀 Professional Summary
 
-Dedicated **Java Full-Stack Developer** passionate about building robust and scalable web applications. Proficient in **Core Java, Spring Boot, Hibernate, and PostgreSQL** for robust backends, and **React.js with Redux Toolkit** for dynamic, responsive frontends. Skilled in full-stack architecture, relational database design, API development, and utilizing Agile methodologies for efficient project delivery. Constantly learning and adapting to new technologies.
+Dedicated **Java Full-Stack Developer** passionate about building robust and scalable web applications. Proficient in **Core Java, Spring Boot, Hibernate, and PostgreSQL** for robust backends, and **React.js with Redux Toolkit** for dynamic, responsive frontends. Skilled in full-stack architecture, relational database design, API development, and utilizing Agile methodologies for efficient project delivery.
 
 ---
 
@@ -77,7 +73,7 @@ Dedicated **Java Full-Stack Developer** passionate about building robust and sca
 ## 💼 Experience & Projects
 
 ### 🌟 Internship Experience
-| **Role** | **Organization** | **Duration** | **Key Contributes** |
+| **Role** | **Organization** | **Duration** | **Key Contributions** |
 | :--- | :--- | :--- | :--- |
 | **Java Full-Stack Intern** | QSpiders (Vashi) | Nov 2025 - Present | Gained comprehensive training in building full-stack applications with React, Java, Hibernate, and PostgreSQL. Reduced query response times by 20%. |
 
